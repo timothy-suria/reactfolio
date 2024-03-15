@@ -60,7 +60,7 @@ function Contact() {
                 <LinkedinIcon />
               </a>
             </div>
-            <a href="/Professional CV Resume.pdf" download className="btn btn2">
+            <a href="/Timothy Suria CV.pdf" download className="btn btn2">
               Download my CV
             </a>
           </div>
